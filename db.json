@@ -1,16 +1,17 @@
- [
+{
+  "quotes":[
     {
       "text": "Be yourself; everyone else is already taken",
       "author": "hello",
       "serialnum": 1,
       "viewtype": "front"
     },
-   {
-     "text": "Be yourself; everyone else is already taken",
-     "author": "hello",
-     "serialnum": 2,
-     "viewtype": "front"
-   },
     {
+      "text": "Be yourself; everyone else is already taken",
+      "author": "hello",
+      "serialnum": 2,
+      "viewtype": "front"
     }
+
   ]
+}
